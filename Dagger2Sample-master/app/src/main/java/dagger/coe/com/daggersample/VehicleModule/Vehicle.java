@@ -2,9 +2,6 @@ package dagger.coe.com.daggersample.VehicleModule;
 
 import javax.inject.Inject;
 
-/**
- * Created by sachin.gurnaney on 13-06-2016.
- */
 public class Vehicle {
     private Motor motor;
 

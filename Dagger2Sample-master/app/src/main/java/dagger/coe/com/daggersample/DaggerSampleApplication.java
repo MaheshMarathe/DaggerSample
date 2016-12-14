@@ -5,9 +5,7 @@ import android.app.Application;
 import dagger.coe.com.daggersample.NetworkAPIModule.DaggerDiComponent;
 import dagger.coe.com.daggersample.NetworkAPIModule.DiComponent;
 
-/**
- * Created by sachin.gurnaney on 05-07-2016.
- */
+
 public class DaggerSampleApplication extends Application {
     DiComponent component;
 

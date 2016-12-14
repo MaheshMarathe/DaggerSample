@@ -1,8 +1,6 @@
 package dagger.coe.com.daggersample.NetworkAPIModule;
 
-/**
- * Created by sachin.gurnaney on 05-07-2016.
- */
+
 public class NetworkApi {
 
     public boolean validateUser(String username, String password) {

@@ -2,9 +2,6 @@ package dagger.coe.com.daggersample.MessageModule;
 
 import javax.inject.Inject;
 
-/**
- * Created by sachin.gurnaney on 13-06-2016.
- */
 public class SMSServiceImpl implements IMessageService {
     @Inject
     public SMSServiceImpl() {
